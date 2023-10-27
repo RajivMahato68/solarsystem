@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x:hidden;
+}
+.heading{
+    display: flex;
+    margin-top: 15px;
+}
+.logo img {
+    width: 110px;
+    padding: 6px;
+  }
+ 
+ .details h2,p {
+    margin-bottom: 0em; 
+     margin-top: 0em;
+    } 
+    .details p sub{
+        font-size: 17px;
+    }
+    .button button {
+        margin-top: 110px;
+        margin-left: 287px;
+        background-color: blue;
+        cursor: pointer;
+        font-size: 20px;
+        color: white;
+      }
+      .icon {
+        margin-top: 104px;
+        font-size: 41px;
+        padding-left: 17px;
+      }
+      .nav-bar {
+        display: flex;
+        background-color: blue;
+        padding-left: 85px;
+        color: white;
+        height: 50px;
+      }
+      .nav-bar h2 i{
+        margin-top: 11px;
+      }
+      .nav-bar .report{
+        margin-top: 11px;
+      }
+      .report{
+        margin-left: 64px;
+      }
+      .button1 button{
+        margin-top: 27px;
+        margin-left: 81px;
+        background-color: blue;
+        font-size: 25px;
+        color: white;
+  }
+  .moneyexchange{
+    display: flex;
+  }
+  .moneyexchange img{
+        width: 180px;
+        height: 173px;
+        margin-top: 25px;
+        margin-left: 82px;   
+  }
+  .moneyexchange h2{
+        margin-left: 29px;
+        margin-top: 84px;
+  }
+  .notice h2{
+    margin-right: 553px;
+    margin-top: 21px;
+    margin-left: 334px;
+    background-color: yellow;
+  }
+  .notice p{
+        font-size: 29px;
+        background: yellow;
+        margin-left: 334px;
+        margin-right: 195px;
+        margin-top: 15px;
+  }
+  .exchange{
+    display: flex;
+  }
+  .exchange img{
+        width: 180px;
+        height: 150px;
+        margin-top: 25px;
+        margin-left: 82px;   
+  }
+  .exchange h2{
+        margin-left: 29px;
+        margin-top: 84px;
+  }
+  .noticenepali p {
+    font-size: 32px;
+    background: yellow;
+    margin-left: 385px;
+    margin-right: 108px;
+    margin-top: 35px;
+  }
+  .footer{
+    margin-top: 90px;
+  background-color: #e3e2e0;
+  text-align: center;
+  height: 70px;
+  }
+  .footer p{
+    padding-top: 26px;
+  }
+    
